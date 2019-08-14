@@ -1,0 +1,21 @@
+#tlacitko {
+  background-color: #4caf50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 15px 5px;
+  text-align: center;
+  font-size: 25px;
+  border-width: 5px;
+}
+
+#tlacitko:disabled {
+  background-color: rgb(192, 22, 0);
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin: 15px 5px;
+  text-align: center;
+  font-size: 25px;
+  border-width: 5px;
+}
